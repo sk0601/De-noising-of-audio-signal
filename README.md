@@ -1,4 +1,4 @@
-# De-noising-of-audio-signal
+# De-noising Of Audio Signal
 De-Noising of Audio Signal using MATLAB
 
 
